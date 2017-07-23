@@ -64,3 +64,4 @@ myTodo.save().then((doc) =>{
   console.log('Unable to save todo');
 });*/
 
+module.exports = {app};
